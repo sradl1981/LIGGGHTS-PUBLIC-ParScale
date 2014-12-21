@@ -1,0 +1,7 @@
+src/Obj*/*
+src/style_*
+src/lmp_*
+src/liblmp_*
+src/version_liggghts.h
+src/*.a
+.directory

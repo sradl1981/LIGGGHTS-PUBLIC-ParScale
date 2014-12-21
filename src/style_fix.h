@@ -57,6 +57,7 @@
 #include "fix_nvt_sllod.h"
 #include "fix_nvt_sphere.h"
 #include "fix_particledistribution_discrete.h"
+#include "fix_pascal_couple.h"
 #include "fix_planeforce.h"
 #include "fix_pour.h"
 #include "fix_press_berendsen.h"
