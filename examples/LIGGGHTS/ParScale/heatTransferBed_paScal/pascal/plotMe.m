@@ -69,6 +69,7 @@ end
   
 %axis([1 28 600 650])  
 leg=legend('fluid','particle_center','particle_middle','particle_surf');
+legend boxoff
 set(leg,'Location','NorthOutside');
 xlabel('time (s)','Fontsize',11)
 ylabel(data2Plot,'Fontsize',11)
